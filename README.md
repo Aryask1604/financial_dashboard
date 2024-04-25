@@ -11,3 +11,6 @@ offer detailed analyses of factors influencing risk variations. The dashboard, d
 in mind, enhances financial transparency and aids in strategic decision-making. The project's long-term impact 
 lies in its adaptability to changing financial landscapes and regulatory dynamics, ensuring enduring value for the 
 organization.
+
+tableau plublic link
+https://public.tableau.com/app/profile/arya.k4334/viz/rwaproject2/RWAoverview?publish=yes
